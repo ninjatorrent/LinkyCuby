@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "linkycuby",
   "version": "1.9.0",
-  "productName": "Helios Launcher",
+  "productName": "LinkyCuby",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://https://github.com/ninjatorrent/LinkyCuby",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://https://github.com/ninjatorrent/LinkyCuby/issues"
   },
   "private": true,
   "main": "index.js",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://https://github.com/ninjatorrent/LinkyCuby.git"
   }
 }
